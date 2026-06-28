@@ -1,16 +1,81 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple and responsive **Weather App** built with **React.js** and a **Weather API**. It allows users to search for any city and view real-time weather information such as temperature, humidity, wind speed, and weather conditions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 📌 Project Overview
 
-## React Compiler
+This project demonstrates how to integrate a weather API into a React application. It fetches real-time weather data and displays it in a clean, user-friendly interface. The project is ideal for beginners learning React, API integration, and state management.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+# ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- 🔍 Search weather by city name
+- 🌡️ View current temperature
+- 💧 Display humidity
+- 💨 Show wind speed
+- ☁️ Display weather condition and icon
+- ⚡ Real-time weather updates
+- 📱 Responsive design for desktop and mobile
+
+---
+
+# 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Fetch API
+- Weather API
+
+---
+
+# 🔗 Live Demo
+
+🌐 https://weather-app-sepia-beta-n2rlg3j6nx.vercel.app/
+
+> Replace this link with your deployed application URL (Vercel, Netlify, etc.).
+
+---
+
+# 🔑 API Used
+
+This application uses a Weather API to fetch real-time weather information, including:
+
+- Current temperature
+- Weather condition
+- Humidity
+- Wind speed
+- Weather icon
+
+---
+
+# 💡 Future Improvements
+
+- 📍 Current location weather
+- 📅 5-day weather forecast
+- 🌙 Dark/Light mode
+- 🌡️ Celsius/Fahrenheit toggle
+- ❤️ Favorite cities
+- 🎨 Improved animations and UI
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, improve the project, and submit a pull request.
+
+
+---
+
+# 👨‍💻 Author
+
+**Joyboy**
+
+GitHub: https://github.com/yukesh-code25
+
+LinkedIn: 
