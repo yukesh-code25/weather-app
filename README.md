@@ -38,7 +38,6 @@ This project demonstrates how to integrate a weather API into a React applicatio
 
 🌐 https://weather-app-sepia-beta-n2rlg3j6nx.vercel.app/
 
-> Replace this link with your deployed application URL (Vercel, Netlify, etc.).
 
 ---
 
@@ -74,8 +73,8 @@ Contributions are welcome! Feel free to fork this repository, improve the projec
 
 # 👨‍💻 Author
 
-**Joyboy**
+**YUKESH_R**
 
 GitHub: https://github.com/yukesh-code25
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
